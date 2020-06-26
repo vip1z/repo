@@ -1,0 +1,1025 @@
+Package: com.ziad.snapper2
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: xRepo  <mmnnm1937@hotmail.com>
+Depends: mobilesubstrate
+Conflicts: com.jontelang.snapper, com.jontelang.snapper2
+Filename: ./debs/co.xrepo.iosksa.snapper2_2.deb
+Size: 404094
+MD5sum: 28f0c1d9c67c177ea7b6436f94ec042e
+SHA1: 377c96c2b5fd4a7d591b0b3ab0fbc88fbd9fc720
+SHA256: 750f563fefc7af48c11317decb74a884fe6c049fdbcc15d02ca2f75dc0d20107
+Section: I0S12__
+Description: تصوير جزء من الشاشة وتنقل فيه اي مكان
+Author: Jonathan Winger-lang
+Installed-Size: 1464
+Name: Snapper 2
+
+Package: com.ziad.dockclear
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: ziad <mmnnm1937@hotmail.com>
+Depends: mobilesubstrate, ws.hbang.common, preferenceloader
+Filename: ./debs/com.ahmedsalahnadom.dockclear_0.deb
+Size: 24710
+MD5sum: 2a2a3e02eb8a3bcae59d7f0fedb31c94
+SHA1: 41e8bfe052a33d41a0462a19942f12ae66940659
+SHA256: 3c2bacda455f17fbbda6d6d37ca8d3cc171e23fe0ae8c2caae9ce2e065a0a8d2
+Section: Tweaks
+Description: حذف خلفية الدوك السفلي للايفون
+Author: Ziad
+Installed-Size: 280
+Name: Dock Clear
+
+Package: com.ziad.icamerax
+Version: 0.2-1+debug-1
+Architecture: iphoneos-arm
+Maintainer: Ziad <mmnnm1937@hotmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.arab-cydia.icamerax_0.deb
+Size: 17814
+MD5sum: a864b46b004ad8b2004d5402d203c53c
+SHA1: 04edb21af05d0ec910fdb6e4ad0c3123ddc42725
+SHA256: af6d2391eed6eefde6decc6c7baead7d88944364d8163791438a20ee08bc3eba
+Section: Supports IOS12.x
+Description: مميزات عدة للكاميرا مثل إخفاء صوت الكاميرا، جلب خاصية HDR و Live ومميزات كاميرا iPhone X للأجهزة القديمة، شاشة كاملة، والكثير.
+Author: Ziad <mmnnm1937@hotmail.com>
+Installed-Size: 164
+Name: iCamerax Z
+
+Package: com.ziad.shortcutenabler
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Maintainer: Ziad <mmnnm1937@hotmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.arab-cydia.shortcutenabler_1.0.deb
+Size: 20182
+MD5sum: 163dd631b5275549cc603e0d743931b4
+SHA1: e0549eff17cdacf1fc8572870b96f73a81c9c122
+SHA256: c1650bf30795933972fad74fc72d0747daecdf61eaf63e41887ef2c8621d872c
+Section: Supports IOS12.x
+Description: جلب أزرار الفلاش / كاميرا المتوفرة في شاشة قفل  الايفون اكس على جميع الأجهزة.
+Author: Ziad
+Installed-Size: 244
+Name: ShortcutEnabler
+
+Package: com.ziad.t3callbar
+Version: 0.0.1-2
+Architecture: iphoneos-arm
+Maintainer: ziad <mmnnm1937@hotmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.arab-cydia.t3callbar_0.0.deb
+Size: 3022
+MD5sum: fb817f2f296ca4a000b5e2d31d334327
+SHA1: f08c44f02b454a42d8494959f71a54db993d549a
+SHA256: cdfc0e1e47657333c0b08e14cf368f22da42f13bd852f435b2b24c03b47489f7
+Section: T3reb
+Description: تعريب اداة CallBar XS 12 & CallBar 11
+Author: ziad
+Installed-Size: 124
+Name: CallBar XS 11 & 12 تعريب
+
+Package: com.ziad.instanoads
+Version: 2.0.0
+Architecture: iphoneos-arm
+Maintainer: Hao Nguyen
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>=4.0.0), firmware (>= 10)
+Filename: ./debs/com.haoict.instanoads_2.0.deb
+Size: 72620
+MD5sum: 7253406a4a5ddb7a51b954bb71818be3
+SHA1: 61d9a59dc2a944c0d147fbfd572dc6e4f7857815
+SHA256: 3763a5e1f6240145fd215b0a670eb96af93dd08d264719127eff07f84a91a2ea
+Section: Tweaks
+Author: Hao Nguyen
+Installed-Size: 348
+Name: Instagram No Ads
+
+Package: com.ziad.libhdev
+Version: 4.1.0
+Architecture: iphoneos-arm
+Maintainer: ziad <mmnnm1937@hotmail.com>
+Depends: mobilesubstrate, preferenceloader, firmware (>= 10)
+Filename: ./debs/com.haoict.libhdev_4.1.deb
+Size: 59528
+MD5sum: 6f05f1a39f20c16564166e37a0af269b
+SHA1: c0c026567b48f8044c96697cb968e3e7e1df9a0e
+SHA256: c983a47c39e2016b3e2211169d73e6b0874cd1478014707e73dc70c540b710fb
+Section: System
+Author: Hao Nguyen <hao.ict56@gmail.com>
+Installed-Size: 312
+Name: libhdev Z
+
+Package: com.julioverne.cracktool4
+Version: 4.0~beta5
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: ldid (>= 2.1.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
+Filename: ./debs/com.julioverne.cracktool4_4.0~beta5_iphoneos-arm.deb
+Size: 125248
+MD5sum: 1e1621b61280df46fefde1c779c01593
+SHA1: db1a6297521224972beaa864c0d367de5c31f14d
+SHA256: 9d6a0ed08402ae25dc3d375f9b0dfc2081024c6a8c597c10ab1ee5c5c6f0c8da
+Section: Utilities
+Description: Crack Tweaks on one click
+Author: julioverne
+Depiction: http://juliovern.github.io/description.html?id=com.julioverne.cracktool4
+Homepage: http://twitter.com/ijulioverne
+Name: CrackTool4 (iOS 12)
+
+Package: com.ps.calleridfs
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Depends: mobilesubstrate, com.a3tweaks.flipswitch, gsc.telephony
+Filename: ./debs/com.ps.calleridfs_0.0.2_iphoneos-arm.deb
+Size: 468918
+MD5sum: ef312ca5e98dd933f0f34715e225caf2
+SHA1: a0d88781e32d91ebf5618e01dc43c2d74b99427f
+SHA256: 71a060fcf2ae1eafbea50278d7b680b751f8ed359e124bee270ab309d6d368fc
+Section: Addons (Flipswitch)
+Description: Toggle for Caller ID.
+Author: PoomSmart
+Installed-Size: 1764
+Name: Caller ID Flipswitch
+
+Package: com.ziad.cconandoff
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: Ziad <mmnnm1937@hotmail.com>
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: com.jakeashacks.realcc
+Filename: ./debs/com.ps.cconandoff_0.0.deb
+Size: 3650
+MD5sum: 386661bdfeaf159ebcd728d081f40fa0
+SHA1: 62b6cb23f8663d06ca064dd21fd2085ceeccd491
+SHA256: 168e8c04ecee1de20c132faaf3067c88f54a9fde804cb61a63c228cf0fc3f99e
+Section: Supports IOS12.x
+Description: إغلاق الواي فاي والبلوتوث من مركز التحكم بشكل كامل دون الحاجة للرجوع إلى الإعدادات لإغلاقهما من هناك.
+Author: PoomSmart
+Installed-Size: 72
+Name: CC On & Off
+
+Package: com.ziad.adblockplus
+Version: 1.1.2
+Architecture: iphoneos-arm
+Maintainer: Ziad
+Filename: ./debs/com.pulandres.adblockplus_1.1.deb
+Size: 12636
+MD5sum: d599de5b8ee97916b74bfa4a00382682
+SHA1: b3be4fabd2981dfa5e551acdf4383c8c938861cd
+SHA256: 779578dc6275b0bbeced3e80158189bc75a4ba468dad65cc2afc46c910142d87
+Section: Tweaks
+Description: Adblock for ++ Tweaks
+Author: Ziad
+Installed-Size: 264
+Name: AdBlock ++
+
+Package: com.ziad.appshortcut
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: Ziad
+Depends: mobilesubstrate, applist, preferenceloader
+Filename: ./debs/com.pulandres.appshortcut_1.0.deb
+Size: 64918
+MD5sum: e089978e1d64cd6347448594caaf3f70
+SHA1: 3a390a13e194e04baf12b5a89698ccf9f2b2b138
+SHA256: a4ac1b59676f66c8be1a44f6c542eec351ece7b7794de6564c4b71d96cf20c66
+Section: Tweaks
+Description: الوصول بسرعة إلى التطبيقات المفضلة لديك في اي مكان
+Author: db89
+Installed-Size: 456
+Name: AppShortcut Z
+
+Package: com.ziad.audiorecorderxs
+Version: 3.0-78
+Architecture: iphoneos-arm
+Maintainer: Ziad
+Depends: mobilesubstrate, preferenceloader,firmware(>=12.0)
+Conflicts: net.limneos.callrecorder, com.pulandres.limneosos, com.hackyouriphone.limneosos, ru.rejail.limneosos
+Replaces: net.limneos.audiorecorder, net.limneos.audiorecorderx,net.limneos.audiorecorderxs
+Filename: ./debs/com.pulandres.audiorecorderxs_3.deb
+Size: 3707148
+MD5sum: f08cbf2279285da6194731638c0c6fba
+SHA1: 8fa69d45111edc44cdf3cc049d609b4da2ffd1b8
+SHA256: 041b066b3225589ac0ac0b2bbb3b141b3a0f2e178cb5f7464ba49cbe183e4b7a
+Section: Tweaks
+Description: Most Advanced iOS Call Recorder Ever!
+Author: Ziad <mmnnmm1937@hotmail.com>
+Installed-Size: 7352
+Name: AudioRecorder XS Cracked Z
+
+Package: com.ziad.biolocker
+Version: 1.0.6-beta-2
+Architecture: iphoneos-arm
+Maintainer: Ziad
+Depends: mobilesubstrate, preferenceloader, cy+model.iphone (>= 6), com.rpetrich.rocketbootstrap, com.ziad.libiarrays
+Conflicts: com.rpetrich.biolockdown, net.limneos.bioprotect, com.pulandress.bioprotectx, net.limneos.bioprotectx, net.limneos.bioprotectxs, com.ziad.bioprotectxs
+Filename: ./debs/com.pulandres.biolocker_1.0.deb
+Size: 1883802
+MD5sum: 4d41f7d337eb5dbe0e9f187c6beae292
+SHA1: 55ebc45a02b868cfdb291e98fdad402a038ad4af
+SHA256: c3c4624e22837568c7f789b2b0ec3f4ef64c32d7b4238702d1871f468880d530
+Section: Tweaks
+Description: Lock your apps ans switches
+Author: Ziad <mmnnm1937@hotmail.com>
+Installed-Size: 867
+Name: Bio Locker Cracked Z
+
+Package: com.ziad.boxy3
+Version: 3.6.2
+Architecture: iphoneos-arm
+Maintainer: Ziad
+Depends: mobilesubstrate, preferenceloader, com.chpwn.iconsupport
+Conflicts: info.rpdev.betterfiveicondock, info.rpdev.betterfivecolumnhomescreen, net.r-ch.iconoclasm, ca.ndoizo.bolders
+Filename: ./debs/com.pulandres.boxy3_3.6.deb
+Size: 2798948
+MD5sum: ad9c06425c3626070fa518d9a7ca4887
+SHA1: 7d2c9db9e23a0385d2aa2c3b732f1b0cf254f9aa
+SHA256: bbe2538d710c1e6ce5a9be97c0f305d6e2bc74e4d72ae3e9c3e798a1e380e363
+Section: Tweaks
+Description: تعديل على التطبيقات وتحكم بها بشكل كامل
+Author: Ziad <mmnnm1937@hotmail.com>
+Installed-Size: 3528
+Name: Boxy 3 (iOS 11 - 12) Z
+
+Package: com.ziad.easyaccess
+Version: 0.1.2
+Architecture: iphoneos-arm
+Maintainer: Ziad
+Depends: mobilesubstrate, com.kaneb.kbapplist, com.kaneb.kbpreferences, libactivator
+Filename: ./debs/com.pulandres.easyaccess_0.1.deb
+Size: 209526
+MD5sum: 9648b0ba3296d7ea70edf952ebc73dab
+SHA1: b4562c9e77806367d40bc7287e1a090d230fbf50
+SHA256: 4f6e34192ea9afaa47985c75ace73b25d7b43d7fe14d542af750f96d358d2741
+Section: Tweaks
+Description: اظهار شريط يمكنك من خلالة اظهار التطبيقات بشكل اسرع
+Author: Kane Buckthorpe
+Installed-Size: 772
+Name: EasyAccess Z
+
+Package: com.ziad.libertylite
+Version: 0.2.12b
+Architecture: iphoneos-arm
+Maintainer: Ziad alfarsi
+Depends: mobilesubstrate, preferenceloader, applist
+Conflicts: com.ryleyangus.liberty, com.ryleyangus.libertylite
+Filename: ./debs/com.pulandres.libertylite_0.2.deb
+Size: 82298
+MD5sum: a40fec27d8526734e49746d5d709c0ff
+SHA1: 2d57e62b5ae849c14310df21e5c58876629c6c11
+SHA256: 94186f338c9cd773705e3ff7b3fa3ca53b98101a5328758bbbd35e5f4ce42a4e
+Section: Tweaks
+Description: 🛡اخفاء الجلبريك عن التطبيقات
+Author: ziad alfarsi
+Icon: file:///Library/PreferenceBundles/LibertyPref.bundle/LibertyPref.png
+Installed-Size: 616
+Name: Liberty Lite(Beta)
+
+Package: com.ziad.libiarrays
+Version: 1.0.11-beta-6
+Architecture: iphoneos-arm
+Maintainer: Ziad
+Conflicts: com.ziad.libiarrays1, com.ziad.libiarrays
+Filename: ./debs/com.pulandres.libiarrays_1.0.deb
+Size: 288778
+MD5sum: acfea2ae842777f15c76a2316baa51c0
+SHA1: 56aacd72be245821cdbfb8767c56f3ceeeba4b2a
+SHA256: 1b672264885af8fc7b6ef3aa75e09125d7159e1c99e94273d698242ef9e984b1
+Section: Development
+Description: Should be used only by IArrays products. This is closed library and no support is provided for this package.
+Author: Ziad <mmnnm1937@hotmail.com>
+Name: libiarrays Cracked Z
+Pre-Depends: firmware (>=7.0)
+
+Package: com.ziad.onlinenotify
+Version: 3.0.6
+Architecture: iphoneos-arm
+Maintainer: Ziad
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader, applist, com.rpetrich.rocketbootstrap, com.pulandres.watools  (>= 2.1.9), sedfix  (>= 7.0)
+Conflicts: com.f0u4d.onlinenotifybeta, com.f0u4d.onlinenotify2, com.imokhles.waquickreply.bb, com.pulandres.whatshack, ru.rejail.whatshack, com.hackyouriphone.whatshack
+Filename: ./debs/com.pulandres.onlinenotify_3.0.deb
+Size: 677510
+MD5sum: 85c1707407c0e10ad7be521674b09ecf
+SHA1: 5294feaddd62214faa52733afaa012d57a17b773
+SHA256: aeedcb2ad1e2dd3c063a8318b7c49ae6395072c9360f54a29554767741c53ac8
+Section: Tweaks
+Description: Track you friends on WhatsApp Messenger!
+Author: Fouad Raheb <mmnnm1937@hotmailil.com>
+Icon: https://repo.pulandres.me/CydiaIcon.png
+Name: OnlineNotify Cracked
+
+Package: com.ziad.pasithea2
+Version: 2.2.1
+Architecture: iphoneos-arm
+Maintainer: ziad alfarsi
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5001), preferenceloader (>= 2.2.2), applist (>= 1.5.9), net.angelxwind.karenlocalizer, firmware (>= 11.0) | com.ichitaso.pasithea2flipswitch
+Conflicts: com.ichitaso.pasteboardswitch, com.ichitaso.pasithea
+Replaces: com.ichitaso.pasithea2
+Filename: ./debs/com.pulandres.pasithea2_2.2.deb
+Size: 782126
+MD5sum: 8a7df2e194a0915518d4dbf8232a7af6
+SHA1: 40e78d5a3c723ed1c55675228330d9de3808d11f
+SHA256: 635e56cf28e874196fcc5b7d89d06b57ed5658a303d6eafb4171fb83ce552d82
+Section: Tweaks
+Description: حفظ كل مايتم نسخه
+Author: ziad <mmnnm1937@hotmail.com>
+Icon: file:///Library/PreferenceBundles/PasitheaSettings.bundle/Pasithea@2x.png
+Installed-Size: 2644
+Name: Pasithea 2 (iOS 10 to 13) Cracked
+
+Package: com.ziad.smartbattery
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: Ziad
+Depends: mobilesubstrate, ws.hbang.common, net.limneos.libbulletin
+Filename: ./debs/com.pulandres.smartbattery_1.2.deb
+Size: 215776
+MD5sum: e933b4a8013b22e00cc7ee597a2b6836
+SHA1: 7c4243eba1227f8baa845b5d680937beb811890c
+SHA256: 124e70fcd10c567d58832669dbcb588ee11f3dd3d3b3af98c92e6548759a88e9
+Section: Tweaks
+Description: حفظ البطارية ، وتحسين LPM
+Author: elias
+Installed-Size: 840
+Name: SmartBattery Z
+
+Package: com.ziad.smartbattery
+Version: 1.3-1
+Architecture: iphoneos-arm
+Maintainer: Ziad
+Depends: mobilesubstrate, ws.hbang.common, net.limneos.libbulletin
+Filename: ./debs/com.pulandres.smartbattery_1.deb
+Size: 219328
+MD5sum: 16b4d3cbed0cc46f642dd6c944fd95be
+SHA1: 20bf9b22e53884584738094b7f4c6874ece578b3
+SHA256: 43582678524167ba536a31882ea729e94eb2501d4cf6f09771ead329bae3ff34
+Section: Tweaks
+Description: حفظ البطارية ، وتحسين LPM.
+Author: elias
+Icon: https://alfarsi23.github.io/repo/CydiaIcon.png
+Installed-Size: 852
+Name: SmartBattery Z
+
+Package: com.ziad.grabberex
+Version: 0.9.5
+Architecture: iphoneos-arm
+Maintainer: XQF <xqf4k1@gmail.com>
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/com.xqf.grabberex_0.9.deb
+Size: 16054
+MD5sum: e655d26864c5c1ea2eb6b7200ddafb98
+SHA1: 1cb7929318cb768e128bb1cacb03ed84f11ee650
+SHA256: 58ea1a15ab0b8fb86f02f79fefff33743da3616ddb547eb16c413917d3d6a31e
+Section: Tweaks
+Description: اظهار نسبة البطارية والساعة في الالعاب مثل ببجي
+Author: XQF
+Icon: https://fakuit01.github.io/repo1/desc/grabberex/grabberexIcon.png
+Installed-Size: 264
+Name: GrabberEX
+
+Package: com.ziad.abetterprivacyforwhatsapp
+Version: 1.4.8
+Architecture: iphoneos-arm
+Maintainer: ziad <mmnnm1937@hotmail.com>
+Depends: mobilesubstrate, firmware (>= 7.0), preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./debs/com.ziad.abetterprivacyforwhatsapp_1.4.8_iphoneos-arm.deb
+Size: 197302
+MD5sum: 01389d300b361bf8bd33507c711ab441
+SHA1: e957d55aec2da2376905c3d7a58b272512b465d9
+SHA256: 92c9fe9369bd989af978448b8baf42878c395d78eac60179ff4292dc73c2a611
+Section: Tweaks
+Author: CydiaGeek <lucaluca86@aol.com>
+Icon: file:///Library/PreferenceBundles/ABetterPrivacyforWhatsApp.bundle/ABetterPrivacyforWhatsApp@2x.png
+Installed-Size: 1022
+Name: ABetterPrivacyforWhatsApp
+Priority: optional
+dev: lucaluca86
+
+Package: com.ziad.appstoreplusplus
+Version: 0.9.7
+Architecture: iphoneos-arm
+Maintainer: ziad
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.uaupdatetools
+Replaces: 
+Filename: ./debs/com.ziad.appstoreplusplus_0.9.7_iphoneos-arm.deb
+Size: 1316578
+MD5sum: cb7e1d21fecfd146a9b898b614f7dda5
+SHA1: df06377b1d7453493d6fc1cf8d415fc105d72a5c
+SHA256: cd1dcd8c72b1e9ef32478cfa2ddd37e3f4924ea72051f8934c2e44c257cc0f96
+Section: Tweaks
+Description: يتيح لك تقليل / ترقية التطبيقات في AppStore على نظام iOS 11-12.2
+Author: Ziad
+Icon: 
+Name: AppStore++
+Priority: optional
+dev: 
+
+Package: com.ziad.arabhack
+Version: 3.2
+Architecture: iphoneos-arm
+Maintainer: Arab-Crack
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/com.ziad.arabhack_3.2_iphoneos-arm.deb
+Size: 513596
+MD5sum: 63bcd1b7762bed2f6de360e1c221bb54
+SHA1: 83b014280efa89589aeb8cccacc2f17336b6d50c
+SHA256: da9b8a68eb78740d30268abd42cc50058f7acfcebc42544376da578b16bf7e6f
+Section: Tweaks
+Description: اداة لتهيكر التطبيقات بضغطة زر
+Author: aJBbo For ArabCrackTeam
+Name: Arab Hack
+
+Package: com.ziad.betterccxiweather
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: Ziad
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader, com.ziad.betterccxi
+Filename: ./debs/com.ziad.betterccxiweather_1.0.3_iphoneos-arm.deb
+Size: 25918
+MD5sum: 559e6cc555ee82b33bcd31b79e2f6667
+SHA1: ee32fe35abeb50854430cc42cf9171a354777430
+SHA256: dabd712bbdf39a82cea28f72cbb57d404f8f87a1aeae7d156f9ae7d21ba734f8
+Section: Tweaks
+Description: وحدة الطقس ل BetterCCXI
+Author: Ziad
+Installed-Size: 172
+Name: BetterCCXI (Weather Addon) Z
+
+Package: com.ziad.betterccxi
+Version: 1.4.8
+Architecture: iphoneos-arm
+Maintainer: Ziad
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader
+Filename: ./debs/com.ziad.betterccxi_1.4.8_iphoneos-arm.deb
+Size: 61586
+MD5sum: 9d93121574bfa9791ee151a88421c62b
+SHA1: 70ee4d30b4e9c2c2a49a0adc2b6fb6f11e932ef5
+SHA256: 91cc3b1a245b25722a247264ba99b6190cf2045dfbabbe5a159e069c9883ad3c
+Section: iOS12
+Description: تغيير شكل مركز الاشعارات الى اشكال  متعددة يعمل على 11.12 تم التعريب بواسطتي
+Author: ATWiiks
+Name: BetterCCXI
+
+Package: com.ziad.betterccxi
+Version: 1.5.0
+Architecture: iphoneos-arm
+Maintainer: ATWiiks
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader
+Filename: ./debs/com.ziad.betterccxi_1.5.0_iphoneos-arm.deb
+Size: 131882
+MD5sum: 5c1922682cb28ebc935ae677d5654135
+SHA1: 28f3bb794ce5ef5a1a998780f9c05b67bd11b702
+SHA256: d3ff89050db67b12e21a16c70868d122e08b67049fa0a2892ea5297ddf70eaea
+Section: Tweaks
+Description: إضافة مميزات الى مركز التحكم جميلة جدا تعمل على 11/12
+Author: ziad
+Installed-Size: 640
+Name: BetterCCXI
+
+Package: com.ziad.callbarxsios12rus
+Version: 2.2-5
+Architecture: iphoneos-arm
+Maintainer: Ziad
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.hackyouriphone.limneosos, net.limneos.callbarx, com.pulandres.limneosos, ru.rejail.limneosos
+Filename: ./debs/com.ziad.callbarxsios12rus_2.2-5_iphoneos-arm.deb
+Size: 430400
+MD5sum: 3042c6524bdffee57a3833e2bb787f0e
+SHA1: e490b40886347eb0c963485b0bea69c5368e5182
+SHA256: 3555511dbb816518126ea11b8bd4cb35d3145567943aee4b890602daa7440048
+Section: iOS12
+Description: تغيير نمط الاتصال الى شكل مصغر
+Author: Ziad
+Icon: file:///Library/PreferenceBundles/CallBarXPreferences.bundle/CallBarXPreferences@3x.png
+Name: CallBar XS (iOS 12) Rus
+
+Package: com.ziad.complications
+Version: 2.2
+Architecture: iphoneos-arm
+Maintainer: Ben Giannis
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0), applist, com.rpetrich.rocketbootstrap (>= 1.0.3) | firmware (<< 7.0)
+Filename: ./debs/com.ziad.complications_2.2_iphoneos-arm.deb
+Size: 593992
+MD5sum: 324543d42c34147c7320ac25c8550be8
+SHA1: bb6917ba698e375575d99a0c8a72520ae1e232d3
+SHA256: e01acd132465703ee8bba496004b4940b4c5c2a78a9623421e62633c01e92355
+Section: Tweaks
+Description: watchOS widgets on your lock screen
+Author: Ben Giannis
+Installed-Size: 1780
+Name: Complications Z
+
+Package: com.ziad.complications
+Version: 3.4.1
+Architecture: iphoneos-arm
+Maintainer: Ben Giannis
+Depends: mobilesubstrate
+Filename: ./debs/com.ziad.complications_3.4.1_iphoneos-arm.deb
+Size: 863090
+MD5sum: 3a70367810e22ccf852525e34ef3d9f0
+SHA1: d0c45d897a0885f4bbabdf76cf31e3ef84ea4023
+SHA256: e47150f85c40ba276734e556e4332b93edd0ade56db9ed38c1420b25a77023ed
+Section: Tweaks
+Description: watchOS widgets on your lock screen
+Author: Ben Giannis
+Installed-Size: 3196
+Name: Complications
+
+Package: com.ziad.coronacounter
+Version: 3
+Architecture: iphoneos-arm
+Maintainer: MegaDev & Simon021
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: ./debs/com.ziad.coronacounter_3_iphoneos-arm.deb
+Size: 126204
+MD5sum: 7d1bdd7a29a4a7ae8cf24134bf000ba6
+SHA1: 83644c75cb509cd74e6dbb4233b64d83c19797b5
+SHA256: 34931c671ae1bfb1d485c813f52bc2ccd47d589ad8de9a3a5d72548cb1c4b27b
+Section: Tweaks
+Description: اداة تظهر نسبة المصابين بمرض كرونا والرفيات والشفاء
+Author: MegaDev & Simon021
+Installed-Size: 460
+Name: CoronaCount
+
+Package: com.ziad.cracktool4
+Version: 4.0~beta7
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: ldid (>= 2.1.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
+Filename: ./debs/com.ziad.cracktool4_4.0-beta7_iphoneos-arm.deb
+Size: 136120
+MD5sum: 863f7ad061dfb97b5495447463f8246b
+SHA1: 8c9ff62214e8d8741a6711372502ee24603ad1b3
+SHA256: c9b893007cb9397dcf2def40f50b521334af960d62613441478b3a682cddb908
+Section: Utilities
+Description: القرص الكراك في نقرة واحدة
+Author: julioverne
+Name: CrackTool4 (iOS 12)
+
+Package: com.ziad.cracktool4
+Version: 4.0~beta8
+Architecture: iphoneos-arm
+Maintainer: Ziad
+Depends: ldid (>= 2.1.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
+Filename: ./debs/com.ziad.cracktool4_4.0-beta8_iphoneos-arm.deb
+Size: 463324
+MD5sum: a1af4ed1204f5914d6d9cf112465643d
+SHA1: 20b3de7fcdf363709497748fb436c29db4e83c7c
+SHA256: 3898d6003795a8479efbdd3646367fba06e21794843feca4e73e0dab79396be5
+Section: Utilities
+Description: القرص الكراك في نقرة واحدة
+Author: ziad
+Name: CrackTool4 (iOS 12)
+
+Package: com.ziad.cracktool4
+Version: 4.0~beta9c
+Architecture: iphoneos-arm
+Maintainer: Ziad
+Depends: ldid (>= 2.1.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
+Filename: ./debs/com.ziad.cracktool4_4.0_beta9c_iphoneos-arm.deb
+Size: 516616
+MD5sum: f2c978ab1df42d9e17ad72df6b531ac2
+SHA1: 4dd6871fe17b9d8697695b487ee58aa2e09d6d06
+SHA256: 92620cae1d88c65b8da509e2e6b17de7bb4b31ea4e0ea1b844d75367a53ddbee
+Section: Utilities
+Description: القرص الكراك في نقرة واحدة
+Author: ziad alfarsi
+Name: CrackTool4 (iOS 12)
+
+Package: com.ziad.emojikey
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: ziad<mmnnm1937@hotmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.ziad.emojikey_1.4_iphoneos-arm.deb
+Size: 56898
+MD5sum: 74e5e0aa36d2275cbdba9bacef30f787
+SHA1: b7a5f6b10e11cf6a6e021195585a97676eea009c
+SHA256: 7846ba3f1dff766e082c42a4f115b6ed2e70755c350b15cd5e84812ed88e7ee1
+Section: Tweaks
+Description: اضافة زر في الكيبورد للفيسات
+Author: fidele007 <kforcefidele@yahoo.com>
+Icon: file:///Library/PreferenceBundles/EmojiKeyPref.bundle/EmojiKeyPref@2x.png
+Installed-Size: 457
+Name: EmojiKey
+Priority: optional
+dev: fidele007
+
+Package: com.ziad.fastforwardtime
+Version: 2.0.2
+Architecture: iphoneos-arm
+Maintainer: ziad <mmnnm1937@hotmail.com>
+Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader
+Filename: ./debs/com.ziad.fastforwardtime_2.0.2_iphoneos-arm.deb
+Size: 34800
+MD5sum: e3efba32770fc795f21db0541ba95ce5
+SHA1: e413703fbb4f2598e310ef3b0c7eb5b16c3be6f5
+SHA256: 3c7ff9d164801f5f6173e8f5c62569693409ee86d791e32ac00227b10ca37af6
+Section: Tweaks
+Description: Adds seconds to your lockscreen clock, change font size of time and date, and moves them!
+Author: Kiet Ha <kaitouiet@gmail.com>
+Icon: file:///Library/PreferenceBundles/FFTPref.bundle/kiet2x.png
+Installed-Size: 214
+Name: FastForwardTime
+Priority: optional
+dev: kaitouiet
+
+Package: com.ziad.foxforttools
+Version: 1.0.7
+Architecture: iphoneos-arm
+Maintainer: Ziad
+Depends: mobilesubstrate, com.foxfort.libfoxfortutils
+Conflicts: com.hackyouriphone.foxforthack, com.pulandres.foxforthack, org.cydia.kiimo.foxforthack, ru.rejail.foxforthack
+Filename: ./debs/com.ziad.foxforttools_1.0.7_iphoneos-arm (4).deb
+Size: 233010
+MD5sum: f3a452eb7bbdc43725f6119747b8e178
+SHA1: d28a39ea81dbd587bea42082f6703f04794943db
+SHA256: 3b018e834b2f2bbd293282036bb00e79ecbcbeb1abbb26c3d4e730f5ec31308d
+Section: System
+Description: Helper tools for Foxfort tweaks
+Author: ziad
+Installed-Size: 640
+Name: FoxFort Tools
+
+Package: com.ziad.icleanerpro
+Version: 7.7.5
+Architecture: iphoneos-arm
+Maintainer: ziad <mmnnm1937@hotmail.com>
+Depends: firmware (>= 4.0), findutils, shell-cmds, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: ./debs/com.ziad.icleanerpro_7.7.5_iphoneos-arm.deb
+Size: 9921526
+MD5sum: a4cdc9ae30e02c0ebfcff64b87bd7bb6
+SHA1: 403322f2e5f8c8ad4e97b5f34df6404b5c2ca7d6
+SHA256: abb325ae47e850d1aad3486adb324df8bb4943514d56facb3963613fb76a1860
+Section: Utilities
+Description: Утилита iCleanerPro аналог CCleaner для PC
+Author: Ivano Bilenchi <support@ib-soft.net>
+Icon: file:///Applications/iCleaner.app/Icon.png
+Name: iCleaner Pro
+
+Package: com.ziad.instanoads
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: ziad <mmnnm1937@hotmail.com>
+Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader, com.haoict.libhdev
+Filename: ./debs/com.ziad.instanoads_1.1.0_iphoneos-arm.deb
+Size: 63912
+MD5sum: 40d1ee8fa4bef45cef488756b8562c91
+SHA1: 46f860fbe182ab97fedac209dc7889d81c437696
+SHA256: 06d0a3cc347ade831f4deebedc629d0f96195058338ae7678434813ae9468d38
+Section: Tweaks
+Description: ازالة اعلانات الانستجرام
+Author: Hao Nguyen <hao.ict56@gmail.com>
+Icon: file:///Library/PreferenceBundles/INAPref.bundle/icon@2x.png
+Installed-Size: 384
+Name: Instagram No Ads
+Priority: optional
+dev: haoict
+
+Package: com.ziad.libfoxfortutils
+Version: 1.0.20
+Architecture: iphoneos-arm
+Maintainer: FoxfortMobile
+Depends: firmware (>= 11.0), com.rpetrich.rocketbootstrap (>> 1.0.6)
+Conflicts: co.xrepo.appletweakjailbreak.libfoxfortutils, co.xrepo.appletweakjailbreak.libfoxfortutils64, org.cydia.kiimo.libfoxfortutils64, org.cydia.kiimo.libfoxfortutils64e, com.hackyouriphone.libfoxfortutils64, com.hackyouriphone.libfoxfortutils64e, com.yourepo.mohadu31.libfoxfortutils64, me.pulandres.libfoxfortutils64, me.pulandres.libfoxfortutils64e, net.kenhtao.libfoxfortutils64, sileoturkiye.libfoxfortutils64, sileoturkiye.libfoxfortutils64e, com.badr.libfoxfortutils, com.hackyouriphone.mgspoof, org.mr.mgspoof
+Filename: ./debs/com.ziad.libfoxfortutils_1.0.20_iphoneos-arm.deb
+Size: 1480890
+MD5sum: f40d25793773a4a074ad34ed93a0c536
+SHA1: 7e9e6f61c5e692964e36fdddcead48da8a4aee9c
+SHA256: 970fb2e1f7f61b0e3d64d37256089812b662f9a87fafcd9126154fe53387448e
+Section: System
+Description: Basic utilities for Foxfort tweaks
+Author: FoxfortMobile
+Installed-Size: 4368
+Name: libfoxfortutils
+
+Package: com.ziad.libfoxfortutils
+Version: 1.0.9
+Architecture: iphoneos-arm
+Maintainer: Ziad
+Depends: firmware (>= 7.0)
+Filename: ./debs/com.ziad.libfoxfortutils_1.0.9_iphoneos-arm (2).deb
+Size: 286002
+MD5sum: e1f300d05617b4f001806b7ab3286871
+SHA1: 60baea2afea847f9b56714730305c53c1e7707e4
+SHA256: a19af1f5fddf7e0190517c077c357eac8fe026950edbc14ae532946b487abc6e
+Section: System
+Description: Basic utilities for Foxfort tweaks
+Author: Ziad
+Installed-Size: 840
+Name: libfoxfortutils
+
+Package: com.ziad.localiapstore
+Version: 1.4-2
+Architecture: iphoneos-arm
+Maintainer: Hmodei96 <hmodei321@gmail.com>
+Depends: firmware (>= 5.1.1), mobilesubstrate, preferenceloader
+Filename: ./debs/com.ziad.localiapstore_1.4-2_iphoneos-arm.deb
+Size: 70984
+MD5sum: 77ebdf9302c531f996e7b58648f1303e
+SHA1: 4d480b35aa1e2bc3e3e009d9a46253189e882b5c
+SHA256: 506f1bd38274125fff0339cf8f81975788f971b04ae72d48e60d413a01328466
+Section: Tweaks
+Author: anondev <repo@hackyouriphone.org>
+Name: LocalIAPStore
+
+Package: com.ziad.lowbatterybanner
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Spark
+Depends: mobilesubstrate
+Filename: ./debs/com.ziad.lowbatterybanner_1.0.2_iphoneos-arm.deb
+Size: 12798
+MD5sum: be7145753d63188a3cd2797ed22e6f3a
+SHA1: 992ea267ab78ba43d046e0c1aeecf2c4fa15cad8
+SHA256: c336bb7b8a5df53a1f76c3c16e3383165fa9461f7a67d8d292b4ae7c1a7e1475
+Section: Tweaks
+Description: استبدل تنبيه الطاقة المنخفضة بإعلام بانر!
+Author: Spark
+Installed-Size: 264
+Name: LowBatteryBanner [Public]
+
+Package: com.ziad.pasithea2
+Version: 2.1.9
+Architecture: iphoneos-arm
+Maintainer: ziad <mmnnm1937@hotmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader (>= 2.2.4~beta1), applist (>= 1.5.15~beta1), com.rpetrich.rocketbootstrap (>= 1.0.7~beta3), net.angelxwind.karenlocalizer (>= 1.0.5), com.opa334.ccsupport (>= 1.2-3) | com.ichitaso.pasithea2flipswitch
+Conflicts: com.ichitaso.pasteboardswitch, com.ichitaso.pasithea, com.ichitaso.pasithea2
+Replaces: com.ziad.pasithea2
+Filename: ./debs/com.ziad.pasithea2_2.1.9_iphoneos-arm.deb
+Size: 774950
+MD5sum: f57d5a606a5936b42b587d7126243f3f
+SHA1: 9ec8348798a1ae6ec424038fffdbc9c239d7dff8
+SHA256: ec8459edeab3a97f8b70a38c7c0a4cbc68758c766f2693a089de6fc6f3f13303
+Section: Tweaks
+Description: حفظ كل شي يتم نسخة واستخراجه بكل سهولة
+Author: Ziad <mmnnm1937@hotmail.com>
+Icon: file:///Library/PreferenceBundles/PasitheaSettings.bundle/Pasithea@2x.png
+Installed-Size: 2644
+Name: Pasithea 2 (iOS 10 to 12)
+dev: Cannathea
+
+Package: com.ziad.shuffle
+Version: 0.8.0b
+Architecture: iphoneos-arm
+Maintainer: ziad <mmnnm1937@hotmail.com>
+Depends: mobilesubstrate, com.creaturecoding.libcspreferences
+Conflicts: com.cpdigitaldarkroom.placeholder
+Replaces: com.cpdigitaldarkroom.placeholder
+Filename: ./debs/com.ziad.shuffle_0.8.0b_iphoneos-arm.deb
+Size: 123280
+MD5sum: 428af9e49de3a9bb78cf46b51313606e
+SHA1: 844fd485be9a6ca81984c351f2aa140d1cb07194
+SHA256: bee5047481bddf31d0f447ee4648aa424b931f01f81b5c2bbca6e68b6db77eca
+Section: Tweaks
+Description: Mix up your preferences
+Author: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 472
+Name: shuffle
+
+Package: com.ziad.snapper2
+Version: 2.2.1
+Architecture: iphoneos-arm
+Maintainer: Ziad
+Depends: mobilesubstrate
+Conflicts: com.jontelang.snapper, com.jontelang.snapper2
+Filename: ./debs/com.ziad.snapper2_2.2.1_iphoneos-arm.deb
+Size: 404808
+MD5sum: f560a0331ff1183c06fa7b04ea458a1a
+SHA1: b0a54574e93f9fe0a982bae6da7902f560fd8511
+SHA256: 01a465c58f730a19b484f3631c0efaa757129115e01b60b455e24fc5e3525f37
+Section: Tweaks
+Description: تصوير جزء من الشاشة والتنقل به اي مكان
+Author: Jonathan Winger-lang <mmnnm1937@hotmail.com>
+Installed-Size: 1464
+Name: Snapper 2 R
+
+Package: com.ziad.st4.new
+Version: 4.0.8
+Architecture: iphoneos-arm
+Maintainer: ziad
+Depends: mobilesubstrate, preferenceloader, applist, com.rpetrich.rocketbootstrap
+Replaces: com.springtomize.st4
+Filename: ./debs/com.ziad.st4.new_4.0.8_iphoneos-arm.deb
+Size: 914964
+MD5sum: f9c47653dd71b8b0bd366913ad005fca
+SHA1: bfed08f4c4bcb848d44a6d0516559e8f6b352de0
+SHA256: 3794f7a849d2832d9609334109405f00d5727b2feabb3b733ee240a6cff6d90f
+Section: Tweaks
+Description: تخصيص جهازك كما لم يحدث من قبل
+Author: ziad
+Conflict: com.springtomize.st4
+Installed-Size: 3368
+Name: Springtomize4
+Provides: com.springtomize.st4.new
+
+Package: com.ziad.storefeatures
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Ziad <mmnnm1937@hotmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common
+Filename: ./debs/com.ziad.storefeatures_1.2_iphoneos-arm.deb
+Size: 54128
+MD5sum: 77929ba94cf45a529c43a14d9ae81806
+SHA1: a60b75bf1551003492902e0be76640584682fbac
+SHA256: ff5133be69296851193d567c3886e5303e2759f93faf9c2dbff3a2471e4d09c0
+Section: Tweaks
+Description: اضافة مميزات للسيديا
+Author: aJBboCydia <mmnnm1937@hotmail.com>
+Installed-Size: 478
+Name: Store Features Z
+compatible: :ios10, compatible::ios11, compatible::ios12
+dev: ajbbocydia
+
+Package: com.ziad.tabblocker
+Version: 1.3.1
+Architecture: iphoneos-arm
+Maintainer: ziad <mmnnm1937@hotmail.com>
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common
+Filename: ./debs/com.ziad.tabblocker_1.3.1_iphoneos-arm (1) (1).deb
+Size: 62588
+MD5sum: 222fb132c42df74009a814efa65e29d0
+SHA1: a9c100ffc6b932bad7c4f181104e883bd0a77ac7
+SHA256: bcff08066f981b833247fbafdc78b8b57d250ebebd5564dfe4e532a069094f35
+Section: Tweaks
+Description: حظر علامات تبويب الإعلان الجديدة والمزيد في سفاري
+Author: Droom0ne <droom1@protonmail.com>
+Icon: file:///Library/PreferenceBundles/TabBlockerPreferenceBundle.bundle/Icon-50.png
+Installed-Size: 439
+Name: TabBlocker
+dev: ziad
+
+Package: com.ziad.tinybanners
+Version: 0.5.3
+Architecture: iphoneos-arm
+Maintainer: Ziad
+Depends: mobilesubstrate,preferenceloader,applist
+Filename: ./debs/com.ziad.tinybanners_0.5.3_iphoneos-arm.deb
+Size: 128872
+MD5sum: fdb2c29a825ed2387f894afb7bb0fe97
+SHA1: 33043fe578efd9359919efa9d00bd7d34ae98946
+SHA256: 2b5f91867a5f95147ad6c9339fc0115545967fc03e50d5e7125ce318495b5c94
+Section: Tweaks
+Description: تصغير الاشعارات الى شكل صغير وانيق
+Author: Ziad
+Installed-Size: 500
+Name: TinyBanners Z
+
+Package: com.ziad.translomatic
+Version: 1.2.10
+Architecture: iphoneos-arm
+Maintainer: FoxfortMobile
+Depends: mobilesubstrate, preferenceloader, com.foxfort.foxforttools, com.foxfort.libfoxfortutils, com.rpetrich.rocketbootstrap (>= 1.0.3)
+Filename: ./debs/com.ziad.translomatic_1.2.10_iphoneos-arm (1).deb
+Size: 240404
+MD5sum: 1cc66319f839f86726b021cf056d2c98
+SHA1: 7e242d3299cb19bfa687aad59d6e9ac38013f82f
+SHA256: 0e16249345a6792b64377870a9983508d0c105716b1fbbe83bba8d4fe409b196
+Section: Tweaks
+Description: وضع الليلي للجهاز
+Author: FoxfortMobile
+Icon: file:///Library/PreferenceBundles/translomaticsettings.bundle/icon@3x.png
+Installed-Size: 976
+Name: Translomatic
+
+Package: iostamara.dayn
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: JannikCrack, Devvix
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14)
+Replaces: com.jannikcrack.dayn
+Filename: ./debs/iostamara.dayn_1.1_iphoneos-arm.deb
+Size: 581004
+MD5sum: e7d8343f57a99c7579d121ffb7c15d93
+SHA1: 6836a03b2c87f26e9f9e8f3a9001a5fd0c2b34cf
+SHA256: 615fd6b977f7c087186644ef1dab7c0e670c94dbc777f55a138b83b00cc4c4da
+Section: Tweaks
+Author: JannikCrack, Devvix
+Icon: https://chariz.com/cdn/icon/dayn/icon@3x.png
+Installed-Size: 1288
+Name: Dayn
+
+Package: com.ziad.jkefree
+Version: 0.0.1-10+debug
+Architecture: iphoneos-arm
+Maintainer: xRepo <mmnnm1937@hotmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/jake.com.jkefree_0.0 .deb
+Size: 9328
+MD5sum: f207733195fa5359b291145b99cc8345
+SHA1: df36e3c649c6ebf44d384ac3f8fd120605805d19
+SHA256: 9c1d72b1be6658e2d62e3663bde60a388aaf166a137bce7a6070e0704ebb15c0
+Section: for jake
+Description: المميزات الكاملة والمدفوعة لبعض التطبيقات مذكورة ف الوصف
+ 
+ 
+ 
+ 
+ فتح المميزات الكاملة لبعض التطبيقات 
+ مجرد ما تحملها من الابستور راح تحمل معك بكامل المميزات 
+ هي 
+  :
+ InShot
+ Wallpaper tree
+ OPixles
+ Logo Shop
+ Video Crop
+ Picsart
+ Font Cndy
+ Cute Cut
+ Betternet
+ Hotspot Shield
+ Photofox
+ Busuu
+ DU Recorder
+ Calm
+ Wallpaper for iPhone 
+ VintageLab
+ Clarity
+ 90s
+ Translator
+ تعلم الانجليزية
+ Avatar Keyboard
+ Darkroom
+ CPU-x
+ Fitness & Bodybuilding Pro
+ شعلة
+ Fused
+ .... جاري اضافة المزيد
+Author: jake
+Installed-Size: 112
+Name: JKFree
+Source: Open All Features some Apps
+
+Package: me.ziad.ikeywi3p
+Version: 3.4.2
+Architecture: iphoneos-arm
+Maintainer: Ziad <mmnnm1937@hotmail.com>
+Depends: preferenceloader, mobilesubstrate, firmware (>= 8.0), applist
+Conflicts: org.thebigboss.ikeywi, tw.hiraku.ikeywi2, tw.hiraku.ikeywi3, com.tw3pole.exkey, gsc.ipad
+Filename: ./debs/me.a1iraqi.ikeywi3p_3.4.deb
+Size: 399192
+MD5sum: 010f59f4dc144d2d83879e1eac182cc8
+SHA1: 715654ff1d478a6ed4a6a636093361965c326672
+SHA256: 2f3a182540a688bf6d05250cd673599f17b565c84e778ce29bc03d880434df5c
+Section: Tweaks
+Author: Ziad
+Icon: https://repo.packix.com/api/Packages/5cbff7868f5bc4001cd6e711/icon/download?size=medium&hash=2
+Installed-Size: 1064
+Name: iKeywi 3 Z
+Paid: Free
+Priority: optional
+Source: Customize your 5-Row keyboard
+
+Package: me.ziad.axon
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: ziad <mmnnm1937@hotmail.com>
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Filename: ./debs/me.nepeta.axon_1.deb
+Size: 195896
+MD5sum: 6f7cb48cd29d8eef0d1d921e3f1456f8
+SHA1: 3ff24558dbf94eb7d58016d26370537105c0a4f3
+SHA256: 4cd33d3f8dea3cbec173985646021c4bb426f5f159a93792441345b7c97a83a2
+Section: Tweaks
+Author: Nepeta & Baw Appie
+Installed-Size: 576
+Name: Axon (ios11-ios13)
+
+Package: net.limneos.fixactivatorplaypause
+Version: 0.0.1-4
+Architecture: iphoneos-arm
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Depends: mobilesubstrate, libactivator
+Filename: ./debs/net.limneos.fixactivatorplaypause_0.0.1-4_iphoneos-arm.deb
+Size: 2532
+MD5sum: e9614e86775b1253ae75e43f1a2195e0
+SHA1: ac1f3eb0391f0761a3b78bd7b569b8b7cb7b92ae
+SHA256: 1994d548ad64202ddc68de686a63c3104afbb135aa12ccfe51e44b9ebd588c08
+Section: Tweaks
+Description: A patch for Activator that fixes play/pause toggle action on iOS 11.3.x
+Author: Elias Limneos <limneoselias@gmail.com>
+Installed-Size: 72
+Name: Activator Play/Pause fix 11.3.x
+
+Package: net.ziad.lynx
+Version: 1.5-2
+Architecture: iphoneos-arm
+Maintainer: Ziad
+Depends: mobilesubstrate, ws.hbang.common, firmware (>= 12.0), com.spark.libsparkapplist, com.spark.libsparkcolourpicker
+Filename: ./debs/net.myclassic.lynx_1.deb
+Size: 740040
+MD5sum: 58574f0d8529d60bf0e0c2022a136730
+SHA1: 37e9551be790a35bd630cdd071ca13ff494c9305
+SHA256: 71418dd309c3de1bf2cf6789835543aed1d301dc43c6fb5008abfe3f27fcfc3f
+Section: Tweaks
+Author: MTAC <mtactheming@gmail.com>
+Icon: https://twickd.com/cdn/screenshots/6195125da9033aac54ffa8c087ff0eaa/default
+Installed-Size: 1808
+Name: Lynx
+
