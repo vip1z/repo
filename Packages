@@ -79,23 +79,6 @@ Author: ziad
 Installed-Size: 124
 Name: CallBar XS 11 & 12 تعريب
 
-Package: com.ziad.icleanerpro
-Version: 7.8.3
-Architecture: iphoneos-arm
-Maintainer: Ivano Bilenchi <support@ib-soft.net>
-Depends: firmware (>= 4.0), findutils, apt | apt7
-Conflicts: org.altervista.exilecom.icleaner
-Replaces: org.altervista.exilecom.icleaner
-Filename: ./debs/com.exile90.icleanerpro_7.8 (1).deb
-Size: 9502972
-MD5sum: e46e2c0009a678947d91901bdd9e1915
-SHA1: 5a9d96cab363df1f9afa090b6dfd0c656d140c25
-SHA256: 679cc68bf962c42fc1709c790d3b80140d8fbea134d8ce7bc4400f510c218ddd
-Section: Utilities
-Author: Ivano Bilenchi <support@ib-soft.net>
-Icon: file:///Applications/iCleaner.app/Icon.png
-Name: iCleaner Pro
-
 Package: com.ziad.instanoads
 Version: 2.0.0
 Architecture: iphoneos-arm
