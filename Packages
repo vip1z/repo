@@ -109,6 +109,23 @@ Author: Hao Nguyen <hao.ict56@gmail.com>
 Installed-Size: 312
 Name: libhdev Z
 
+Package: com.ziad.snapper2.packix
+Version: 2.4.3
+Architecture: iphoneos-arm
+Maintainer: Jonathan Winger-lang
+Depends: mobilesubstrate, firmware(>=12.1)
+Conflicts: com.jontelang.snapper, com.jontelang.snapper2
+Filename: ./debs/com.jontelang.snapper2.packix_2.4.deb
+Size: 295496
+MD5sum: 9db4d5b040d2e222694e0a75f355a9b8
+SHA1: c380e48d1cfa1393bc56967d45428f2b40bdd93d
+SHA256: 765b7a77d73c57d18e738a16217a63a4aeed2819dfa022e4f2583d2312ff2e6d
+Section: Tweaks
+Description: اداة تصوير الشاشة وقصها والتنقل بها اي مكان تريد
+Author: Jonathan Winger-lang
+Installed-Size: 1236
+Name: Snapper 2
+
 Package: com.julioverne.cracktool4
 Version: 4.0~beta5
 Architecture: iphoneos-arm
