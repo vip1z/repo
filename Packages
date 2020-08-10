@@ -447,6 +447,23 @@ Priority: optional
 dev: lucaluca86
 
 Package: com.ziad.appstoreplusplus
+Version: 0.9.11
+Architecture: iphoneos-arm
+Maintainer: ziad <mmnnm1937@hotmail.com>
+Depends: firmware (>= 11.0), mobilesubstrate, com.rpetrich.rocketbootstrap
+Conflicts: com.unlimapps.uaupdatetools
+Filename: ./debs/com.ziad.appstoreplusplus_0.9.11_iphoneos-arm.deb
+Size: 612736
+MD5sum: 570998d1c8ad4ab3a0e6e95c1ea7cf41
+SHA1: 00fae871a63d1117f962bab880a247d94ede93fb
+SHA256: b283b793d5c4b68a0ee31981b05200f6cc5e0a50c015dc488701d8127ce07a22
+Section: Tweaks
+Description: ارجاع اصدارات التطبيقات من الاب ستور
+Author: CokePokes
+Name: AppStore++
+Priority: optional
+
+Package: com.ziad.appstoreplusplus
 Version: 0.9.7
 Architecture: iphoneos-arm
 Maintainer: ziad
