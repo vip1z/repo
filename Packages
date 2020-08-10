@@ -970,6 +970,23 @@ Icon: file:///Library/PreferenceBundles/translomaticsettings.bundle/icon@3x.png
 Installed-Size: 976
 Name: Translomatic
 
+Package: com.ziad.limneosos
+Version: 2.0.2
+Architecture: iphoneos-arm
+Maintainer: GuoFenPai
+Depends: mobilesubstrate
+Filename: ./debs/github.io.gfp.limneosos_2.0.deb
+Size: 36372
+MD5sum: 9d84c8285dbfb921561ba6289d9b006d
+SHA1: ea6eaa706aba54bf7418ef60a88babdcb3bfbb94
+SHA256: 16d5c0fb33f5bbcc1e8445580427f5646801c7cb9e0463494e24b8795fa0aa6b
+Section: Tweaks
+Author: Elias Limneos
+Icon: https://guofenpai.github.io/repo/icon/gfp.png
+Installed-Size: 212
+Name: Limneosos
+Priority: optional
+
 Package: iostamara.dayn
 Version: 1.1
 Architecture: iphoneos-arm
