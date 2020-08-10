@@ -1090,40 +1090,6 @@ Icon: https://twickd.com/cdn/screenshots/6195125da9033aac54ffa8c087ff0eaa/defaul
 Installed-Size: 1808
 Name: Lynx
 
-Package: org.ziad.callbarxs
-Version: 3.2-143k
-Architecture: iphoneos-arm
-Maintainer: MainRepo
-Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions, firmware ( >= 12), wget
-Conflicts: com.hackyouriphone.limneosos, net.limneos.callbarx, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
-Filename: ./debs/org.mr.callbarxs_3 (1).deb
-Size: 513740
-MD5sum: 934257abd546c918d859dd4d2e117641
-SHA1: 8687a2cbcdf66310b0f3fc0849b7cfee8c52143a
-SHA256: e2a0e1cf52880d58e121c1eb8e876cfceed267346ac9459c4bd332a63c897f82
-Section: Tweaks
-Author: Elias Limneos <limneoselias@gmail.com>
-Icon: https://www.limneos.net/cydia/packageImages/net.limneos.callbarxs/icon.png?fe=18
-Installed-Size: 1608
-Name: CallBar XS (iOS 12/13)
-
-Package: org.ziad.callbarxs
-Version: 3.2-143k
-Architecture: iphoneos-arm
-Maintainer: MainRepo
-Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions, firmware ( >= 12), wget
-Conflicts: com.hackyouriphone.limneosos, net.limneos.callbarx, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
-Filename: ./debs/org.mr.callbarxs_3.deb
-Size: 513740
-MD5sum: 934257abd546c918d859dd4d2e117641
-SHA1: 8687a2cbcdf66310b0f3fc0849b7cfee8c52143a
-SHA256: e2a0e1cf52880d58e121c1eb8e876cfceed267346ac9459c4bd332a63c897f82
-Section: Tweaks
-Author: Elias Limneos <limneoselias@gmail.com>
-Icon: https://www.limneos.net/cydia/packageImages/net.limneos.callbarxs/icon.png?fe=18
-Installed-Size: 1608
-Name: CallBar XS (iOS 12/13)
-
 Package: com.ziad.tinybanners2
 Version: 1.0.4-3
 Architecture: iphoneos-arm
@@ -1140,4 +1106,22 @@ Author: Don
 Icon: https://repo.packix.com/api/Packages/5dd969b72fd49a001a0b5f74/icon/download?size=medium
 Installed-Size: 488
 Name: TinyBanners 2
+
+Package: org.ziad.callbarxs
+Version: 3.2-143k
+Architecture: iphoneos-arm
+Maintainer: MainRepo
+Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions, firmware ( >= 12), wget
+Conflicts: com.hackyouriphone.limneosos, net.limneos.callbarx, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Filename: ./debs/org.ziad.callbarxs_3.2-143k_iphoneos-arm.deb
+Size: 513722
+MD5sum: c7e7ad1995d763989a0893cf45126f0a
+SHA1: c54e3458ff118e2bf2a4f6b08fba4bc4abdabceb
+SHA256: 30ac4a035ec81b4e83bcaa673f9e6dce5bcfe2295de6eb45d4da1bc6e97f151f
+Section: Tweaks
+Description: تغيير نمط الاتصال الى شكل مصغر
+Author: Elias Limneos <limneoselias@gmail.com>
+Icon: https://www.limneos.net/cydia/packageImages/net.limneos.callbarxs/icon.png?fe=18
+Installed-Size: 1608
+Name: CallBar XS (iOS 12/13)
 
