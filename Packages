@@ -394,6 +394,23 @@ Icon: https://alfarsi23.github.io/repo/CydiaIcon.png
 Installed-Size: 852
 Name: SmartBattery Z
 
+Package: com.ziad.storeswitcher2
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: ziad <mmnnm1937@hotmail.com>
+Depends: firmware (>= 11), mobilesubstrate
+Filename: ./debs/com.subdiox.storeswitcher2_1.0.deb
+Size: 45920
+MD5sum: 2ba574d63ae4e82a2651844685db6893
+SHA1: 8234a43114fd8380979ec8ca40677160721cb6b7
+SHA256: d62e6cffd73c936e2b517c0a8bbbe21ec3a6b843968d0c95389b77ac3b2a244b
+Section: Tweaks
+Description: تبديل بيين حسابات الاب ستور
+Author: subdiox
+Installed-Size: 276
+Name: StoreSwitcher 2
+Source: switch account in App Store account page on iOS 11+.
+
 Package: com.ziad.grabberex
 Version: 0.9.5
 Architecture: iphoneos-arm
