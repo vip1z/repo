@@ -710,6 +710,24 @@ Author: Ivano Bilenchi <support@ib-soft.net>
 Icon: file:///Applications/iCleaner.app/Icon.png
 Name: iCleaner Pro
 
+Package: com.ziad.ikeywi4
+Version: 4.1.7k
+Architecture: iphoneos-arm
+Maintainer: MainRepo
+Depends: preferenceloader, mobilesubstrate, firmware (>= 11.0), applist
+Conflicts: org.thebigboss.ikeywi, tw.hiraku.ikeywi2, tw.hiraku.ikeywi3, tw.hiraku.ikeywi3p, com.tw3pole.exkey, gsc.ipad
+Filename: ./debs/com.ziad.ikeywi4_4.1.7k_iphoneos-arm.deb
+Size: 439182
+MD5sum: 3fd0d9d4f57158dc184782091b98b300
+SHA1: b83fcb6d4e42d96ac52faf52f176e654436d08bb
+SHA256: 9d104744e1c09145f48ba29d65fc2105bd66a47f2afa1198ab1f490ecc7780df
+Section: Tweaks
+Description: إضافة صف قابل للتخصيص من لوحة المفاتيح
+Author: Hiraku <dev@hiraku.tw>
+Icon: https://repo.packix.com/api/Packages/5d5bf63651ba38001a4bd144/icon/download?size=medium
+Installed-Size: 884
+Name: iKeywi 4
+
 Package: com.ziad.instanoads
 Version: 1.1.0
 Architecture: iphoneos-arm
