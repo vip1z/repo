@@ -1124,3 +1124,20 @@ Icon: https://www.limneos.net/cydia/packageImages/net.limneos.callbarxs/icon.png
 Installed-Size: 1608
 Name: CallBar XS (iOS 12/13)
 
+Package: com.ziad.tinybanners2
+Version: 1.0.4-3
+Architecture: iphoneos-arm
+Maintainer: MainRepo
+Depends: mobilesubstrate,preferenceloader,applist,net.limneos.libbulletin
+Filename: ./debs/org.mr.tinybanners2_1.0.deb
+Size: 126966
+MD5sum: f461b6b0184076cd5b1adc19793f1532
+SHA1: b6a84ae55d597cedcce98faaafebe60cd3a8820a
+SHA256: 8d6ecc6c3e3b22dfb1caae8b709f407cf91943d5327a7476ddf8100117fcf137
+Section: Tweaks
+Description: تصغيير الاشعارات الى عدة اشكال
+Author: Don
+Icon: https://repo.packix.com/api/Packages/5dd969b72fd49a001a0b5f74/icon/download?size=medium
+Installed-Size: 488
+Name: TinyBanners 2
+
