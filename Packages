@@ -514,6 +514,23 @@ Description: اداة لتهيكر التطبيقات بضغطة زر
 Author: aJBbo For ArabCrackTeam
 Name: Arab Hack
 
+Package: com.ziad.axonreborn
+Version: 2.0.0
+Architecture: iphoneos-arm
+Maintainer: Nepeta
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 13.0)
+Conflicts: com.peterdev.grupi, me.nepeta.axon, io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Filename: ./debs/com.ziad.axonreborn_2.0.0_iphoneos-arm.deb
+Size: 192072
+MD5sum: 5d3ea2245bf9d757363c90b746fbfbe3
+SHA1: db96672c336cd080eb31f89f0a2e2d5c6f1fc430
+SHA256: 199024ae3608b8c0344b0d7e7254cd16ca7e0f7a3ca5a15eced0583e6d4261e7
+Section: Tweaks
+Description: تقسيم الإشعارات كل إشعار إلى حدى
+Author: Nepeta
+Installed-Size: 576
+Name: Axon Reborn
+
 Package: com.ziad.betterccxiweather
 Version: 1.0.3
 Architecture: iphoneos-arm
