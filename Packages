@@ -31,6 +31,22 @@ Author: Ziad
 Installed-Size: 280
 Name: Dock Clear
 
+Package: com.ziad.arabhack
+Version: 5.0.1
+Architecture: iphoneos-arm
+Maintainer: aJBbo For ArabCrackTeam
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/com.arab-cydia.arabhack_5.0.deb
+Size: 733234
+MD5sum: db1971a491a9fb2b6c0ed094b9544384
+SHA1: 1f4d7e367680c31e64157be2cdde1ae12f214739
+SHA256: 68a22fa9a9ca6b5f2ed52fcffeaf42f3eee64c83eb00f2f047dd1d93f2222f46
+Section: Tweaks
+Description: اداة عرب كراك لتهكير تضم مجموعه كبيره من البرامج المهكره مجانا لاصحاب الجلبريك
+Author: aJBbo For Arab_Crack
+Installed-Size: 2044
+Name: Arab Hack
+
 Package: com.ziad.icamerax
 Version: 0.2-1+debug-1
 Architecture: iphoneos-arm
