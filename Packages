@@ -797,6 +797,37 @@ Name: Instagram No Ads
 Priority: optional
 dev: haoict
 
+Package: com.ziad.itweakios.carriercrack-global
+Version: 3.1.6
+Architecture: iphoneos-arm
+Maintainer: ziad <mmnnm1937@hotmail.com>
+Depends: com.yourepo.itweakios.ccpatch10
+Filename: ./debs/com.ziad.itweakios.carriercrack-global_3.1.6_iphoneos-arm (1).deb
+Size: 4692620
+MD5sum: 9b4bf3ea9f557f328ce36a0f8c60d0b8
+SHA1: 1d9340b859abd6a9f4002d5288686ecddcbe8ba5
+SHA256: 33d3114cafa11b4349b51765743c54970aa6cb32d97e557c68d071c8c951de0d
+Section: Tweaks
+Description: تمكن الميزات المخفية ، وتقدم ميزات جديدة ، وتضخيم إشارة الخلية ، وتضخيم سرعات البيانات والمزيد!
+Author: iTweakiOS <itweakios@yahoo.com>
+Name: CarrierCrack - Global
+Pre-Depends: firmware (>= 13)
+
+Package: com.ziad.itweakios.ccpatch10
+Version: 4.0.1
+Architecture: iphoneos-arm
+Maintainer: ziad <mmnnm1937@hotmail.com>
+Depends: mobilesubstrate, firmware (>=10.0)
+Filename: ./debs/com.ziad.itweakios.ccpatch10_4.0.1_iphoneos-arm.deb
+Size: 44292
+MD5sum: c9d25238fe16633827933e61cfd5eb62
+SHA1: 5d1e5dec0547c6293d10da9d168ede9ade6e7614
+SHA256: d5d98b47df2f55fa24d92ce77251e6470ddaef6562401c8dab16a11b85d282c2
+Section: Tweaks
+Description: Carrier bundle verification bypass
+Author: Pwn20wnd <itweakios@yahoo.com>
+Name: CommCenter Patch
+
 Package: com.ziad.libfoxfortutils
 Version: 1.0.20
 Architecture: iphoneos-arm
