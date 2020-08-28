@@ -1191,6 +1191,25 @@ Icon: https://twickd.com/cdn/screenshots/6195125da9033aac54ffa8c087ff0eaa/defaul
 Installed-Size: 1808
 Name: Lynx
 
+Package: com.ziad.pasithea2
+Version: 2.2.4.1k
+Architecture: iphoneos-arm
+Maintainer: MainRepo
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader (>= 2.2.4~beta1), applist (>= 1.5.15~beta1), com.rpetrich.rocketbootstrap (>= 1.0.7~beta3), net.angelxwind.karenlocalizer (>= 1.0.5), com.opa334.ccsupport (>= 1.2-3) | com.ichitaso.pasithea2flipswitch
+Conflicts: com.ichitaso.pasteboardswitch, com.ichitaso.pasithea, com.ichitaso.pasithea2
+Replaces: com.cannathea.pasithea2
+Filename: ./debs/org.mr.pasithea2_2.2.4.deb
+Size: 825246
+MD5sum: 99d10441f9cdd16c1247b5a249673c44
+SHA1: 689b859de6851305002df7daed0347cb2aaa2563
+SHA256: aec4572423b116b3876401b974667f6b21ffa62747a270849f95bb970abc0f9f
+Section: Tweaks
+Description: Manage the iOS pasteboard history
+Author: Cannathea <csupport@cannathea.com>
+Icon: https://repo.packix.com/api/Packages/5cdeed72ec10a1001aa22f2b/icon/download?size=medium
+Installed-Size: 2736
+Name: Pasithea 2 (iOS 10 to 13)
+
 Package: com.ziad.tinybanners2
 Version: 1.0.4-3
 Architecture: iphoneos-arm
