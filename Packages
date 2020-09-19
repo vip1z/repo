@@ -794,6 +794,25 @@ Author: Ivano Bilenchi <support@ib-soft.net>
 Icon: file:///Applications/iCleaner.app/Icon.png
 Name: iCleaner Pro
 
+Package: com.ziad.icleanerpro
+Version: 7.8.3k
+Architecture: iphoneos-arm
+Maintainer: Ziad <mmnnm1937@hotmail.com>
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: ./debs/com.ziad.icleanerpro_7.8.3k_iphoneos-arm (1).deb
+Size: 5402122
+MD5sum: 9f21e573e3b5e22b33d0db3bb8f7462a
+SHA1: 58a175cd8d7c20850bde863ebd1f3f4933b0ca82
+SHA256: cc33b82ec702d89a52d477fc44eb6ef391bb118f01ebd66042a475c40708d2f1
+Section: Utilities
+Description: اداة تنظيف الجهاز
+Author: Ivano Bilenchi <support@ib-soft.net>
+Icon: file:///Applications/iCleaner.app/Icon.png
+Installed-Size: 24161
+Name: iCleaner Pro
+
 Package: com.ziad.ikeywi4
 Version: 4.1.7k
 Architecture: iphoneos-arm
