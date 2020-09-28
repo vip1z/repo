@@ -531,6 +531,23 @@ Author: Nepeta
 Installed-Size: 576
 Name: Axon Reborn
 
+Package: com.ziad.backgrounderaction13
+Version: 0.1.4
+Architecture: iphoneos-arm
+Maintainer: ziad  <mmnnm1937@hotmail.com>
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/com.ziad.backgrounderaction13_0.1.4_iphoneos-arm.deb
+Size: 16206
+MD5sum: cae17db59b8c3f3e77b14d942e816daa
+SHA1: 903a5117fd8dd93ec9d79f5012bd2ccacdfbef1d
+SHA256: 756c72a5a871db66dfa3c6c6966e5bac7c25b5410ecf565beeed025b3cc93d82
+Section: Tweaks
+Description: [iOS13] تشغيل البرامج فالخلفية.
+Author: akusio <akusio-report@neko2.net>
+Depiction: https://akusio.github.io/descriptions/backgrounderaction13/index.html
+Installed-Size: 244
+Name: BackgrounderAction2 for CCSupport
+
 Package: com.ziad.betterccxiweather
 Version: 1.0.3
 Architecture: iphoneos-arm
