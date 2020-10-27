@@ -1074,6 +1074,21 @@ Installed-Size: 212
 Name: Limneosos
 Priority: optional
 
+Package: com.iggnew.iGameGuardian.iOS12.speed.fireFour
+Version: 12.0.4
+Architecture: iphoneos-arm
+Maintainer: iggnew
+Filename: ./debs/IGG CRACKED.deb
+Size: 1090628
+MD5sum: 3cb7b8be7cc52cf1a0720f91fee8e4b8
+SHA1: fb2d37f73b0ae6b2abbe1600c8bb62e2ee3970cb
+SHA256: 7722ece27b701523f01d9de1d445f09ee3d44039d6d93207d0c41ff245bece05
+Section: iGG
+Author: iggnew
+Installed-Size: 1372
+Name: iGG 12 Speed [FireFour]  免费
+Priority: optional
+
 Package: iostamara.dayn
 Version: 1.1
 Architecture: iphoneos-arm
