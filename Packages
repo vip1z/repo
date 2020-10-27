@@ -1227,6 +1227,23 @@ Icon: https://twickd.com/cdn/screenshots/6195125da9033aac54ffa8c087ff0eaa/defaul
 Installed-Size: 1808
 Name: Lynx
 
+Package: com.ziad.apphack
+Version: 4.2
+Architecture: iphoneos-arm
+Maintainer: Ziad
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/org.mr.apphack_4.deb
+Size: 3130488
+MD5sum: e950b9091f6c8b612ad04372d20c73d4
+SHA1: 93c0ee2d86481518d3b6fe9ee85fd734fb9d1185
+SHA256: d0a1b5bb07cad7da249838bc807bd97bfb24e685f33d75903caed4fc5cb2c747
+Section: Tweaks
+Description: اداة تهكير اكثر من 100 تطبيق
+Author: hmodei96
+Icon: https://pbs.twimg.com/profile_images/1312097082736508928/vdn6-ztz_bigger.jpg
+Installed-Size: 6180
+Name: Apps Hacks
+
 Package: com.ziad.pasithea2
 Version: 2.2.4.1k
 Architecture: iphoneos-arm
