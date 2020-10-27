@@ -777,22 +777,6 @@ Author: ziad
 Installed-Size: 640
 Name: FoxFort Tools
 
-Package: com.ziad.hmodeis.apphack
-Version: 3.0-1
-Architecture: iphoneos-arm
-Maintainer: hmodei96
-Depends: mobilesubstrate, ws.hbang.common
-Filename: ./debs/com.ziad.hmodeis.apphack_3.0-1_iphoneos-arm.deb
-Size: 1656960
-MD5sum: ab8fae0ca4780ca18c5b4615b751a7d0
-SHA1: ccda42d0690d2e41b1f58e76887512d1b81dbac4
-SHA256: 42eb5ce441fad08db18249ad5682eb900aa6414d77d8fe0d879fbe307e713759
-Section: Tweaks
-Description: ًاداةتهكير التطبيقات مايقارب 100 تطبيق
-Author: hmodei96
-Installed-Size: 3508
-Name: Apps Hacks
-
 Package: com.ziad.icleanerpro
 Version: 7.7.5
 Architecture: iphoneos-arm
